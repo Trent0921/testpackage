@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Trent0921/testpackage/issues"
   },
-  "homepage": "https://github.com/Trent0921/testpackage#readme"
+  "homepage": "https://github.com/Trent0921/testpackage#readme",
   "publishConfig": {
    "@Trent0921:registry": "https://npm.pkg.github.com"
   }
