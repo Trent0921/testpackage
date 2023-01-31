@@ -1,0 +1,19 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "sample for package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trent0921/testpackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trent0921/testpackage/issues"
+  },
+  "homepage": "https://github.com/Trent0921/testpackage#readme"
+}
