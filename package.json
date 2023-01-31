@@ -16,4 +16,7 @@
     "url": "https://github.com/Trent0921/testpackage/issues"
   },
   "homepage": "https://github.com/Trent0921/testpackage#readme"
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
